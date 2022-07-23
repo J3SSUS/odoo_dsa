@@ -1,3 +1,5 @@
+# Cuarta Práctica Calificada - DSA
+
 sudo find addons/  -type d -exec chmod 755 {} \;
 sudo find addons/  -type f -exec chmod 644 {} \;
 sudo find addons/  -type d -exec chown daniel:daniel {} \;
