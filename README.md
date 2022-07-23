@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sudo find addons/  -type d -exec chmod 755 {} \;
 sudo find addons/  -type f -exec chmod 644 {} \;
 sudo find addons/  -type d -exec chown daniel:daniel {} \;
@@ -17,3 +18,7 @@ cvv : RegExp("^[0-9]{3,4}$");
 
 #Desarrollo Adaptativo de Software
 ------------------------------------------------------------------------------------
+=======
+# Cuarta Práctica Calificada - DSA
+iosif monrroy rojo
+>>>>>>> 19de599d486e66fe96bc06d8a2780193ffafe007
