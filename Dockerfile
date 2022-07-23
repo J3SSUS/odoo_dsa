@@ -17,7 +17,6 @@ RUN set -x; \
 
 RUN pip3 install pillow
 RUN pip3 install tesseract
-RUN pip3 install pytesseract
 RUN pip3 install beautifulsoup4
 RUN pip3 install boto3
 RUN pip3 install culqipy
