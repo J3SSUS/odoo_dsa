@@ -19,6 +19,7 @@ cvv : RegExp("^[0-9]{3,4}$");
 #Desarrollo Adaptativo de Software
 ------------------------------------------------------------------------------------
 =======
-# Cuarta Práctica Calificada - DSA
+# Cuarta Práctica Calificada - DSA (Desarrollo de Software Adaptativo)
+
 iosif monrroy rojo
 >>>>>>> 19de599d486e66fe96bc06d8a2780193ffafe007
